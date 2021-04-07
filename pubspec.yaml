@@ -1,0 +1,84 @@
+name: youtube_ui_clone
+description: Flutter Youtube UI Clone
+
+
+
+publish_to: 'none'
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.7.3
+  flutter_riverpod: ^0.13.1+1
+  miniplayer: ^1.0.0+2
+  timeago: ^3.0.2
+
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+
+
+flutter:
+
+
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/logo.png
+    - assets/icon.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
